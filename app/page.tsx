@@ -13,7 +13,8 @@ export default function App() {
     <main>
       <h1>JC Marketing Solutions LLC</h1>
       <div>
-        This website serves as a landing page for JC Marketing Solutions LLC
+        This website serves as a landing page for JC Marketing Solutions LLC<br/>
+        jacobchunnweb@gmail.com
       </div>
     </main>
   );
