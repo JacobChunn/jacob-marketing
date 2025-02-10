@@ -1,0 +1,1 @@
+This is a basic, temporary website for my marketing business.
